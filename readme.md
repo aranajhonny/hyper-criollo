@@ -1,6 +1,6 @@
 # hyper-criollo
 
-> Criollo [Hyper](https://hyper.is) theme based in vaporwave
+> Criollo [Hyper](https://hyper.is) theme based in vaporwave colors.
 
 ![](screenshot.png)
 
