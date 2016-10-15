@@ -1,6 +1,6 @@
 {
   "name": "hyper-criollo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hyper theme based in vaporwave",
   "main": "index.js",
   "repository": {
@@ -11,7 +11,12 @@
     "hyper",
     "vaporwave",
     "theme",
-    "criollo"
+    "criollo",
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "hyperterm"
   ],
   "author": "jhonny arana",
   "license": "MIT"
