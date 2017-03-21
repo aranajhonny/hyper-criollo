@@ -1,5 +1,7 @@
 # hyper-criollo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aranajhonny/hyper-criollo.svg)](https://greenkeeper.io/)
+
 > Criollo [Hyper](https://hyper.is) theme based in vaporwave colors.
 
 ![](screenshot.png)
